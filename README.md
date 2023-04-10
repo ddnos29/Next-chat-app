@@ -1,7 +1,12 @@
-# FriendZone - A full-stack realtime messaging chat application
+# Nextjs chat app realtime
 
 A project to learn modern full-stack development made by Josh.
 
+## Stacks
+- Nextjs
+- Typescript
+- Redis
+- TaiwindCSS
 ## Features
 
 -  Realtime messaging
@@ -18,5 +23,8 @@ A project to learn modern full-stack development made by Josh.
 ## install
 
 ```
-	git clone
+	git clone https://github.com/ddnos29/Next-chat-app
+	cd Next-chat-app
+	npm install
+	npm run dev
 ```
